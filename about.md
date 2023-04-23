@@ -10,7 +10,7 @@ Business Manager
 Experienced and professional IT Manager with over eight years of valuable experience in monitoring project performance to ensure company success. Familiar and adept in working with engineering, industrial engineering, change management, and business transformation systems. Bringing forth a motivated attitude and the ability to establish strong and productive relationships with other company members.
 <h1>Employment History</h1>
 IT, Tripoli
-JUNE 207- MARCH 2023
+JUNE 2007- MARCH 2023
 • Developed and implemented best practices, resulting in a x»improvement in IT efficiency and productivity
 •Developed an Il budgeting system that accurately tracked and monitored spending, resulting in a X% reduction in Il costs
 <h1>Education :</h1>
