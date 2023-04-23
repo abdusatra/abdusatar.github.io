@@ -5,7 +5,7 @@ title: About Me
 
 ## About
 <h1>My details:</h1>
-"it is abdusatar abdunabi"
+"It is ABDUSATAR ABDUNABI ALI"
 Business Manager
 Experienced and professional IT Manager with over eight years of valuable experience in monitoring project performance to ensure company success. Familiar and adept in working with engineering, industrial engineering, change management, and business transformation systems. Bringing forth a motivated attitude and the ability to establish strong and productive relationships with other company members.
 <h1>Employment History</h1>
