@@ -17,8 +17,8 @@ JUNE 2007- MARCH 2023
 bachelors at EMU, Cypress
 MARCH 2020 - MARCH 2024
 1. it is my best year with the best teaching experience from a lot of the best teachers.
-2. during the educational process, got experienced many factors such as knowing newlanguages and also knowthree languages english, lurkish slanguage and
-also Arabic
+2. during the educational process, got experienced many factors such as knowing newlanguages and also know three languages English, Turkish language and
+also Arabic.
 <h1>Courses :</h1>
 ICDL at the best course the really helpful if you want improve your
 computer skills more and more.
