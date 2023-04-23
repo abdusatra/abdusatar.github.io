@@ -24,8 +24,8 @@ ICDL at the best course the really helpful if you want improve your
 computer skills more and more.
 APRIL 2020 - 101 2020
 training & development "T.D.C".
-".work at contracs ocalnerwork or any network with other he work."
-Details
+".work at contracs local networking or any network with other he work."
+<h1>Details:</h1>
 Nesma, Libya
 0915225751
 shandsxx@gmail.com
