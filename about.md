@@ -13,7 +13,7 @@ IT, Tripoli
 JUNE 207- MARCH 2023
 • Developed and implemented best practices, resulting in a x»improvement in IT efficiency and productivity
 •Developed an Il budgeting system that accurately tracked and monitored spending, resulting in a X% reduction in Il costs
-Education
+<h1>Education :</h1>
 bachelors at EMU, Cypress
 MARCH 2020 - MARCH 2024
 1. it is my best year with the best teaching experience from a lot of the best teachers.
@@ -36,12 +36,12 @@ Microsoft Excel
 Business Develcoment
 Microsoft Office
 
-<h1>Hobbies</h1>
+<h1>Hobbies :</h1>
 volley ⚽ ,
  swimming 🏊,
 teaching ,
 reading 📖 
-<h1>Languages</h1>
+<h1>Languages :</h1>
 .English
 .Turkish
 .Arabic 
