@@ -37,9 +37,10 @@ Business Develcoment
 Microsoft Office
 
 <h1>Hobbies</h1>
-volley ⚽ 
- swimming
-teaching
+volley ⚽ ,
+ swimming 🏊,
+teaching ,
+reading 📖 
 <h1>Languages</h1>
 .English
 .Turkish
