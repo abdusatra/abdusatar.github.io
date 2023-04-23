@@ -44,4 +44,5 @@ reading 📖
 <h1>Languages</h1>
 .English
 .Turkish
+.Arabic 
 
