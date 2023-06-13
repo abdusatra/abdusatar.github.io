@@ -2,8 +2,8 @@
 layout: post
 title: Introduction to cyber security 
 subtitle:
-categories: Python
-tags: [Python, intro, certificate]
+categories: cyber security 
+tags: [cyber security , intro, certificate]
 ---
 
 ## Introduction to  cyber security 
